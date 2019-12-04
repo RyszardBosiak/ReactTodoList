@@ -1,0 +1,22 @@
+{
+  "name": "reacttodolist",
+  "version": "1.0.0",
+  "description": "Just simple todo list app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RyszardBosiak/ReactTodoList.git"
+  },
+  "author": "Ryszard Bosiak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RyszardBosiak/ReactTodoList/issues"
+  },
+  "homepage": "https://github.com/RyszardBosiak/ReactTodoList#readme",
+  "dependencies": {
+    "create-react-app": "^3.2.0"
+  }
+}
